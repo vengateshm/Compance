@@ -62,5 +62,6 @@ dependencies {
     androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
 
-    implementation project(':compance')
+//    implementation project(':compance')
+    implementation 'com.github.vengateshm:Compance:v1.0.0'
 }

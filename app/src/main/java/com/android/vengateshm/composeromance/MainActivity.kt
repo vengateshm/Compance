@@ -28,8 +28,10 @@ class MainActivity : ComponentActivity() {
                             .height(150.dp),
                         brush = Brush.linearGradient(
                             colors = listOf(
-                                Color("#6DC8F3".toColorFormat()),
-                                Color("#73A1F9".toColorFormat())
+                                /*Color("#6DC8F3".toColorFormat()),
+                                Color("#6DC8F3".toColorFormat()),*/
+                                Color("#FFB157".toColorFormat()),
+                                Color("#FFA057".toColorFormat())
                             )
                         )
                     ) {
